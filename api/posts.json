@@ -1,0 +1,44 @@
+[
+  {
+    "uid": 1,
+    "text" : "You know him right",
+    "username" : "Haris",
+    "avatar" : "../images/avatar-01.svg",
+    "favorite": false
+  },
+  {
+    "uid": 2,
+    "text" : "that 'chua' faced admi",
+    "username" : "Abrar",
+    "avatar" : "../images/avatar-02.svg",
+    "favorite": false
+  },
+  {
+    "uid": 3,
+    "text" : "The rocker",
+    "username" : "Ali",
+    "avatar" : "../images/avatar-03.svg",
+    "favorite": false
+  },
+  {
+    "uid": 4,
+    "text" : "That brainless women",
+    "username" : "Mehreen",
+    "avatar" : "../images/avatar-06.svg",
+    "favorite": false
+  },
+  {
+    "uid": 5,
+    "text" : "Getting out in world",
+    "username" : "Aneesa",
+    "avatar" : "../images/avatar-08.svg",
+    "favorite": false
+  },
+  {
+    "uid": 6,
+    "text" : "Overrated Guy!",
+    "username" : "Iftekhar",
+    "avatar" : "../images/avatar-05.svg",
+    "favorite": false
+  }
+]
